@@ -1,8 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 
-Register Number: 212221040135
-Name: Ragupathi P
-
+## Register Number: 212221040135
+## Name: Ragupathi P
 
 ## AIM 
 To write a python program to perform stop and wait protocol
